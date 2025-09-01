@@ -52,7 +52,8 @@ Customer satisfaction has remained consistently high and stable over the product
 *   **Product Defects:** Receiving defective units, especially with camera failures, is a major source of customer frustration.
 *   **Performance & Value:** Praised for fast and smooth performance, though the camera's lack of a dedicated night mode is a noted weakness.
 
-**Verification**
-The above observations can also be verified by the customer review summary section on Amazon:
+### \.Verification
+
+The customer review summary section on Amazon can also verify the above observations:
 
 ![Alt Text](./verification_amazon.png)
