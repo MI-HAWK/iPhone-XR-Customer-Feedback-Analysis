@@ -55,4 +55,4 @@ Customer satisfaction has remained consistently high and stable over the product
 **Verification**
 The above observations can also be verified by the customer review summary section on Amazon:
 
-![Alt Text](images/verification_amazon.png)
+![Alt Text](./verification_amazon.png)
