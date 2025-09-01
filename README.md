@@ -12,9 +12,9 @@ These core metrics provide a high-level summary of customer sentiment.
 
 | Metric | Value | Insight |
 | --- | --- | --- |
-| Overall Average Rating | 4.4 | Indicates strong overall product satisfaction. |
-| Average Sentiment Score | +0.43 | The language used in reviews is predominantly positive. |
-| Total Reviews Analyzed | 4,700+ | A substantial dataset ensuring relevant findings. |
+| Overall Average Rating |4.4| Indicates strong overall product satisfaction. |
+| Average Sentiment Score |+0.43| The language used in reviews is predominantly positive. |
+| Total Reviews Analyzed |4,700+| A substantial dataset ensuring relevant findings. |
 
 ### 2\. Strengths vs. Weaknesses: Aspect Sentiment Analysis
 
