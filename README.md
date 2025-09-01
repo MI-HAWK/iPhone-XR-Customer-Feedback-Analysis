@@ -14,12 +14,10 @@ These core metrics provide a high-level summary of customer sentiment.
 | --- | --- | --- |
 | Overall Average Rating |4.4| Indicates strong overall product satisfaction. |
 | Average Sentiment Score |+0.43| The language used in reviews is predominantly positive. |
-| Total Reviews Analyzed |4,700+| A substantial dataset ensuring relevant findings. |
 
 ### 2\. Strengths vs. Weaknesses: Aspect Sentiment Analysis
 
-This chart ranks key product aspects based on the average sentiment of the language used when customers discuss them. It provides a clear, data-driven priority list.
-
+Sentiment analysis of specific product aspects provides a clear, data-driven priority list.
 **Key Insights:**
 
 *   **Clear Strengths:** The **Camera** and **Battery** are the most praised features, generating the strongest positive emotional response and driving customer delight.
@@ -27,17 +25,15 @@ This chart ranks key product aspects based on the average sentiment of the langu
 
 ### 3\. Key Topics Tracker: What Customers Are Talking About
 
-This section distills the core themes from the most helpful positive and negative reviews, revealing what matters most to users.
+The core themes from the most helpful positive and negative reviews reveal what matters most to users.
 
 | Key Positives | Key Negatives |
 | --- | --- |
-| 1. Superior Camera & Battery Life: The "make-or-break" features that define the premium experience. | 1. Service & Returns Process: Frustrations with after-sales support and replacements. |
-| 2. Excellent Value for Money: Customers feel they made a smart purchase, getting premium features at a good price point. | 2. Hardware & Component Failure: Issues with key parts like the battery, charger, or speaker not working. |
-| 3. High-Quality Performance & Display: The overall speed, Face ID, and screen quality are consistently praised. | 3. Defective on Arrival: Receiving a faulty unit right out of the box, leading to a poor initial experience. |
+| 1. Superior Camera & Battery Life. | 1. Service & Returns Process: Frustrations with after-sales support and replacements. |
+| 2. Excellent Value for Money. | 2. Hardware & Component Failure: Issues with key components, such as the battery, charger, or speaker, not functioning properly. |
+| 3. High-Quality Performance & Display: The overall speed, Face ID, and screen quality are consistently praised. | 3. Receiving a Defective Unit on Arrival|
 
 ### 4\. Customer Satisfaction Over Time
-
-This section tracks the average monthly rating, helping to identify trends and the impact of external events.
 
 Key Insight:
 
