@@ -29,8 +29,8 @@ The core themes from the most helpful positive and negative reviews reveal what 
 
 | Key Positives | Key Negatives |
 | --- | --- |
-| 1. Superior Camera & Battery Life. | 1. Service & Returns Process: Frustrations with after-sales support and replacements. |
-| 2. Excellent Value for Money. | 2. Hardware & Component Failure: Issues with key components, such as the battery, charger, or speaker, not functioning properly. |
+| 1. Superior Camera & Battery Life | 1. Poor Service & Returns Process |
+| 2. Excellent Value for Money | 2. Hardware & Component Failure: Issues with key components, such as the battery, charger, or speaker, not functioning properly. |
 | 3. High-Quality Performance & Display: The overall speed, Face ID, and screen quality are consistently praised. | 3. Receiving a Defective Unit on Arrival|
 
 ### 4\. Customer Satisfaction Over Time
@@ -41,14 +41,13 @@ Customer satisfaction has remained consistently high and stable over the product
 
 ### 5\. AI-Driven Insights
 
-#### Key AI-Generated Synopsis:
 
 *   **Overall Experience:** A sophisticated but bulky design, with the lack of an OLED screen being a notable drawback for users.
 *   **Camera & Design:** The camera is a key strength in good lighting, but its low-light performance is average and the phone is considered heavy.
 *   **Product Defects:** Receiving defective units, especially with camera failures, is a major source of customer frustration.
 *   **Performance & Value:** Praised for fast and smooth performance, though the camera's lack of a dedicated night mode is a noted weakness.
 
-### Verification
+### 6\. Verification
 
 The customer review summary section on Amazon can also verify the above observations:
 
