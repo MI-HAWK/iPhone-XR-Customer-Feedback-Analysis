@@ -6,7 +6,7 @@ This summary provides a consolidated view of customer satisfaction, highlighting
 
 **Executive Summary:** The iPhone XR is a highly successful product with strong customer satisfaction, driven primarily by its excellent camera and battery life. The most significant opportunity for improvement lies not in the product itself, but in streamlining the after-sales service and returns process, which is the primary source of customer frustration.
 
-### 1\. Key Performance Indicators (At a Glance)
+### 1\. Key Performance Indicators 
 
 These core metrics provide a high-level summary of customer sentiment.
 
